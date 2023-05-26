@@ -1,2 +1,2 @@
 # Deelfa\
-https://github.com/Ivan9222/Deelfa/settings/pages
+https://ivan9222.github.io/Deelfa/
